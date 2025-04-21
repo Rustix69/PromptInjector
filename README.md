@@ -1,10 +1,10 @@
-# Injection Sentinel AI
+# Prompt Injection AI
 
 A robust system for detecting prompt injection attacks in AI systems.
 
 ## About the Project
 
-Injection Sentinel AI is a tool designed to analyze prompts sent to AI systems to detect potential security threats, particularly prompt injection attacks. It consists of a Rust backend for analysis and a modern React frontend for user interaction.
+Prompt Injection AI is a tool designed to analyze prompts sent to AI systems to detect potential security threats, particularly prompt injection attacks. It consists of a Rust backend for analysis and a modern React frontend for user interaction.
 
 ## Project Structure
 
