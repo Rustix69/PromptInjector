@@ -1,0 +1,8 @@
+# Ignore all files in the target directory
+target/
+
+# Ignore all files in the .env directory
+.env
+
+# Ignore all files in the Cargo.lock directory
+Cargo.lock

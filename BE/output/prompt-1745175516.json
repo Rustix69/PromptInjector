@@ -1,0 +1,4 @@
+{
+    "suspicion_score": "0.8",
+    "reason": "The user is explicitly ignoring previous instructions, which may be an attempt to bypass or override system controls."
+}
